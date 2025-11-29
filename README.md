@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**bernaspereirix/bernaspereirix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bernardo, an Android developer based in Portugal.
 
-Here are some ideas to get you started:
+I've been working as an Android developer for a company in the automotive sector for the past 2.5 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mainly with Android and Kotlin.
+
+I also want to learn a more low level language, hence why I've started learning Rust during my free time as well.
+
+Right now I'm building a fullstack Compose Multiplatform project and I hope to make the repo public soon so anyone interested can take a look.
+
+### Fun facts about me:
+- I build custom gaming PCs on the side for friends and clients
+- I like to watch anime, read manga, play videogames and also some sports such as football and padel
+- Before working in software development, I worked as a construction worker
